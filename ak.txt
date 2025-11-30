@@ -4,3 +4,6 @@ haw are you ?
 what is your name ?
 i am fine 
 this is my frind
+hi new text add for git and update for 
+vscode 
+ok
