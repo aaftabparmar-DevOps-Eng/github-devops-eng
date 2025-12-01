@@ -17,7 +17,14 @@ q=Window
 
 
 
+ab=78
+cd=36
+an=98
+aafta=888]
 
+
+
+freetest()
 
 
 
